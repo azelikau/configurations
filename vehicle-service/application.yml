@@ -1,5 +1,5 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/vehicle_service?currentSchema=public
+    url: jdbc:postgresql://postgres.production.internal:5432/vehicle_service?currentSchema=public
     username: postgres
     password: postgres
